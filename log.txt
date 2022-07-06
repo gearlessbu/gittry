@@ -1,0 +1,17 @@
+* [33mcommit b1cb8d95bc574a90e309f25f702240a601c0f760[m[33m ([m[1;36mHEAD -> [m[1;32mtest[m[33m)[m
+[31m|[m Author: 卜佳木 <bjm21@mails.tsinghua.edu.cn>
+[31m|[m Date:   Wed Jul 6 11:45:28 2022 +0800
+[31m|[m 
+[31m|[m     change j for test
+[31m|[m 
+* [33mcommit e70fdefd1d4169a4f1c899059d6514706761f571[m[33m ([m[1;32mmaster[m[33m)[m
+[31m|[m Author: 卜佳木 <bjm21@mails.tsinghua.edu.cn>
+[31m|[m Date:   Wed Jul 6 11:29:20 2022 +0800
+[31m|[m 
+[31m|[m     add global variable int j=0
+[31m|[m 
+* [33mcommit 953d6112a6de486a150a23be53fb370d8816e097[m
+  Author: 卜佳木 <bjm21@mails.tsinghua.edu.cn>
+  Date:   Wed Jul 6 11:25:39 2022 +0800
+  
+      add helloworld.cpp
